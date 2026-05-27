@@ -8,4 +8,3 @@
 - Errors are values.
 - Shell orchestrates computation.
 - Orchestration turns computation into systems.
-- AI extends backend with probabilistic services.
