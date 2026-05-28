@@ -8,3 +8,4 @@
 - Errors are values.
 - Shell orchestrates computation.
 - Orchestration turns computation into systems.
+- The limits of language are the limits of thought.
