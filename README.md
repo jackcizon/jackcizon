@@ -10,3 +10,4 @@
 - Orchestration turns computation into systems.
 - The limits of language are the limits of thought.
 - Platform over projects, fundamentals over frameworks, ROI over obsession.
+- Debug, Convergence, Iteration, Stabilization.
