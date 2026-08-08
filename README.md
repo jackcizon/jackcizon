@@ -11,3 +11,4 @@
 - The limits of language are the limits of thought.
 - Platform over projects, fundamentals over frameworks, ROI over obsession.
 - Understand, Debug, Convergence, Iteration, Stabilization.
+- Sustainability counts.
