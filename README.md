@@ -13,4 +13,4 @@
 - Understand, Debug, Convergence, Iteration, Stabilization.
 - Sustainability counts.
 - Things change. People grow. Never let outdated assumptions define others.
-- Learning algorithmic ideas and invariants, not standardized templates and implementations.
+- Algorithmic thinking, invariants, and principles over standardized templates and implementations.
