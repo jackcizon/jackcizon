@@ -12,3 +12,4 @@
 - Platform over projects, fundamentals over frameworks, ROI over obsession.
 - Understand, Debug, Convergence, Iteration, Stabilization.
 - Sustainability counts.
+- Things change. People grow. Never let outdated assumptions define others.
